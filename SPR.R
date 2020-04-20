@@ -1,3 +1,8 @@
+#This assumes data collected in IbexFarm, https://github.com/addrummond/ibex. However, the analysis and plotting are more widely applicable.
+
+#The bayesian analysis uses brms, a wrapper for STAN: https://github.com/paul-buerkner/brms
+
+
 setwd("mywd")
 library(ggplot2)
 library(ggthemes)
